@@ -1,0 +1,17 @@
+.App {
+background-image: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
+
+.form-card {
+  box-shadow: 0 0 5px 0;
+  backdrop-filter: blur(3px);
+
+}
+.footer{
+position: absolute;
+bottom: 0px;
+width: 100%;
+}
